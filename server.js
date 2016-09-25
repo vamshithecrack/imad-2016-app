@@ -15,7 +15,7 @@ var articles = {
                 this is the first article page
             </p>`
 },
- 'article-wo': {
+ 'article-two': {
     title: "article-two | vamshi krishna",
     heading: "article Two",
     date: "sep 6,2015",
@@ -65,9 +65,9 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/:articlename',function(req,res){
-    var articlename = req.params.articlename;
-    res.send(createtemplate(articles[articlename]));
+app.get('/:articleName',function(req,res){
+    var articleName = req.params.articleName;
+    res.send(createtemplate(articles[articleName]));
 });
 
 app.get('/ui/style.css', function (req, res) {
