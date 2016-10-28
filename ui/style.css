@@ -26,5 +26,9 @@ body {
 }
 
 .nav{
-    list-style: none;
+    list-style-type: none;
+}
+
+.nav li{
+    float: left;
 }
