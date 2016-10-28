@@ -12,15 +12,15 @@ var articles = {
     heading: "article One",
     date: 'sep 5,2015',
     content: `<p>
-                this is the first article page
+                this is the MY HOME PAGE 
             </p>`
 },
  'article-two': {
-    title: "article-two | vamshi krishna",
-    heading: "article Two",
+    title: "TECHNOLGY | vamshi krishna",
+    heading: "WELCOME TO OUT PAGE ",
     date: "sep 6,2015",
     content: `<p>
-                this is the second article page
+                WELCOME TO OUT TECHNOLGY PAGE 
             </p>`
 }
 };
