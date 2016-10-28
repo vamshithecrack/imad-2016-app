@@ -25,10 +25,21 @@ body {
     font-family: sans-serif;
 }
 
-.nav{
-    list-style-type: none;
-}
+        .nav{
+            list-style: none;
+            display: inline-block;
+        }
 
-.nav li{
-    float: left;
-}
+        .nav li{
+            float: left;
+            margin-right: 10px;
+            background-color: #9775fa;
+            padding: 10px;
+            border-radius: 3px;
+            color: #fff;
+        }
+
+        .nav li a{
+            color: #fff;
+            text-decoration: none;
+        }
