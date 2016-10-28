@@ -30,6 +30,10 @@ body {
     margin: 0 auto;
 }
 
+.border{
+    border: 2px solid red;
+}
+
         .nav{
             list-style: none;
             display: inline-block;
