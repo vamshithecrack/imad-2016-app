@@ -24,3 +24,7 @@ body {
     color: #ff0074;
     font-family: sans-serif;
 }
+
+.nav{
+    list-style: none;
+}
