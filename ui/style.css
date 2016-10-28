@@ -58,4 +58,6 @@ body {
         
 .info{
     text-align: center;
+    color: #fff;
+    text-transform: capitalize;
 }
