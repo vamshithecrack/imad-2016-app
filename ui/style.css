@@ -37,7 +37,8 @@ body {
         .nav{
             list-style: none;
             display: inline-block;
-            margin: 0px;
+            width: 60%;
+            margin: 3% 20%;
             padding: 0px;
         }
 
