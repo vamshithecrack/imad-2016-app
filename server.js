@@ -10,7 +10,7 @@ var articles = {
  'article-one': {
     title: 'article One | vamshi krishna',
     heading: "about me!!",
-    date: 'sep 5,2015',
+  
     content: `<p>
                hello! this is vamshi krishna.I'm persuing btech in SRM Uniersity.this is my first web app related to modern aticles.
                Here in this website you are going to view many categorised articles.Even you can post any modern articles by logging to our site.
