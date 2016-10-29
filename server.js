@@ -9,10 +9,11 @@ app.use(morgan('combined'));
 var articles = {
  'article-one': {
     title: 'article One | vamshi krishna',
-    heading: "article One",
+    heading: "about me!!",
     date: 'sep 5,2015',
     content: `<p>
-                this is the MY HOME PAGE 
+               hello! this is vamshi krishna.I'm persuing btech in SRM Uniersity.this is my first web app related to modern aticles.
+               Here in this website you are going to view many categorised articles.Even you can post any modern articles by logging to our site.
             </p>`
 },
  'article-two': {
